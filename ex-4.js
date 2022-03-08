@@ -6,3 +6,5 @@ let studentsScore = {
   Mick: 89,
   Ole: 10,
 };
+
+// Start coding here
