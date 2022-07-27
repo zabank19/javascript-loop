@@ -1,9 +1,12 @@
-let numbers = [40, 1, 23, 400, 99, 100];
+// Exercise #6: Sorting Numbers
 
-function sort(items) {
+function sort(numbersArray) {
   // start coding here
 }
 
-let sortedNumbers = sort(numbers);
+// Example case
+let numbers = [40, 1, 23, 400, 99, 100];
 
-console.log(sortedNumbers); // [1, 23, 40, 99, 100, 400 ]
+// ผลลัพธ์ที่จะได้จากการ Execute Function
+let sortedNumbers = sort(numbers);
+console.log(sortedNumbers); // [1, 23, 40, 99, 100, 400]
