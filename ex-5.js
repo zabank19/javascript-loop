@@ -59,8 +59,8 @@ let orders = [
     id: 8,
     customerName: "Bill Champion",
     productName: "Wine - Red, Harrow Estates, Cab",
-    productPrice: 9221,
-    productQuantity: 4,
+    productPrice: 922100,
+    productQuantity: 40,
     creditCardType: "china-unionpay",
   },
   {
