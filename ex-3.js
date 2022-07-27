@@ -1,3 +1,5 @@
+// Exercise #3: Reverse Strings
+
 function reverse(str) {
   // Start coding here
 }
