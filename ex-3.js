@@ -1,6 +1,6 @@
 // Exercise #3: Reverse Strings
 
-function reverse(str) {
+function reverse(string) {
   // Start coding here
 }
 
