@@ -1,3 +1,4 @@
+// Exercise #4: Classroom Scores
 let studentsScore = {
   James: 40,
   Ann: 80,
