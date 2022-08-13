@@ -1,9 +1,6 @@
-// Exercise #3: Reverse Strings
+let numbers = [100, 20, 3, 1000];
+let minNumber;
 
-function reverse(string) {
-  // Start coding here
-}
+// Start coding here
 
-// Example case
-console.log(reverse("TechUp Thailand"));
-console.log(reverse("Coding is fun !"));
+console.log(minNumber);

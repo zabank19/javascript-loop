@@ -1,4 +1,5 @@
-// Exercise #1: Restaurant Listing
+let scores = [89, 70, 60, 50, 100, 71]
 
-let restaurants = ["KFC", "MOMO PARADISE", "Nabezo"];
 // Start coding here
+
+console.log(scores);
