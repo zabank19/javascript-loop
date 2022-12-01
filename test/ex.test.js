@@ -98,7 +98,7 @@ describe("Loops tests cases", () => {
     expect(console.log.mock.calls).toEqual(expect.arrayContaining(expectedLog));
   });
 
-  test.only("exercise 6: Classroom Scores", async () => {
+  test("exercise 6: Classroom Scores", async () => {
     const data = await fs.readFile("./ex-6.js");
     const code = `${data}`;
 
