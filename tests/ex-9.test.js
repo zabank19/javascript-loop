@@ -9,8 +9,8 @@ describe("Loops tests cases", () => {
     jest.resetAllMocks();
   });
 
-  test("exercise 6: console.log ออกมาได้อย่างถูกต้องตาม format ที่กำหนด", async () => {
-    const data = await fs.readFile("./ex-6.js");
+  test("exercise 9: console.log ออกมาได้อย่างถูกต้องตาม format ที่กำหนด", async () => {
+    const data = await fs.readFile("./ex-9.js");
     const code = `${data}`;
 
     const func = new Function(code);

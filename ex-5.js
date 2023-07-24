@@ -1,3 +1,5 @@
+// Exercise #5: Orders Analysis 1 (For Loop)
+
 let orders = [
   {
     id: 1,
