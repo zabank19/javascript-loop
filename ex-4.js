@@ -4,4 +4,3 @@ let reversedCompanyName = "";
 
 // Start coding here
 
-console.log(reversedCompanyName);

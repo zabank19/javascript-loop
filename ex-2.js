@@ -4,4 +4,3 @@ let newRestaurants = [];
 
 // Start coding here
 
-console.log(newRestaurants);
