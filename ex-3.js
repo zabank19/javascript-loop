@@ -1,5 +1,6 @@
-// Exercise #3: Min Numbers
+// Exercise #3: Find a Minimum Number
 let numbers = [100, 20, 3, 1000];
-let minNumber = 0;
-
+let minNumber;
 // Start coding here
+
+console.log(minNumber);
