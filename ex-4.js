@@ -1,6 +1,6 @@
-// Exercise #4: Reverse Strings
-let companyName = "TechUp Thailand";
-let reversedCompanyName = "";
-
+// Exercise #4: Displaying Restaurant Name
+let restaurants = ["KFC", "MOMO PARADISE", "Nabezo"];
+let newRestaurants = [];
 // Start coding here
 
+console.log(newRestaurants);
