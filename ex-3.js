@@ -1,6 +1,6 @@
 // Exercise #3: Find a Minimum Number
-let numbers = [100, 20, 3, 1000];
-let minNumber;
+let scores = [100, 20, 3, 1000];
+let minScore;
 // Start coding here
 
-console.log(minNumber);
+console.log(minScore);
