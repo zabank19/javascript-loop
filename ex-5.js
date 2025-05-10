@@ -2,3 +2,6 @@
 let companyName = "TechUp";
 
 // Start coding here
+for(let x in companyName){
+    console.log("Number "+(Number(x)+1)+" character is "+companyName[x]);
+}
